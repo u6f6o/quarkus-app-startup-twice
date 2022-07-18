@@ -1,0 +1,1 @@
+# quarkus-app-startup-twice
